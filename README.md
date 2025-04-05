@@ -1,12 +1,31 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🎨 3x3 Matrix Color Interaction | React Project
 
-Currently, two official plugins are available:
+This is a simple and interactive 3x3 grid application built with **React** and **styled-components**, enhanced with **sound effects** for a fun user experience. It's a great demo of handling click events, managing component state, and adding polish with CSS and audio.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧠 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ 3x3 Matrix Grid
+- ✅ Click to color boxes green (with a click sound)
+- ✅ After the 9th click, boxes turn orange in the exact order of clicks (with transition sound)
+- ✅ Reset button to restart the interaction (with reset sound)
+- ✅ Smooth animations and responsive design
+- ✅ All styled using `styled-components`
+
+---
+
+## 🛠️ Tech Stack
+
+- **React (with Vite)**
+- **JavaScript**
+- **Styled-components**
+- **HTML5 Audio API**
+
+---
+
+## 📁 Folder Structure
+
+
